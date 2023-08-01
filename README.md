@@ -22,7 +22,7 @@ I am a Full Stack Web Developer from Minneapolis, Minnesota. I am also a proud p
 
 - :zap: In my free time, I like to read, go to soccer games, and try out local breweries and distilleries.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayampeters/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayampeters/)
 
   ---
 
