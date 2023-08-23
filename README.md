@@ -18,7 +18,7 @@ I am a Full Stack Web Developer from Minneapolis, Minnesota. I am also a proud p
 
 - :telescope: I’m currently working as a Project Manager in healthcare reasearch at the University of Minnesota, and a student in the [Prime Academy](https://www.primeacademy.io/) Full Stack Software Engineering program. 
 
-- :seedling: Creating PlantEZ, a fullstack web application to help folks keep their houseplants alive and thriving! Also training for my first Twin Cities 10 mile race in October :running_woman:	
+- :seedling: Creating [PlantEZ](https://github.com/mayaavida/plantez), a fullstack web application to help folks keep their houseplants alive and thriving! Also training for my first Twin Cities 10 mile race in October :running_woman:	
 
 - :zap: In my free time, I like to read, go to soccer games, and try out local breweries and distilleries.
 
