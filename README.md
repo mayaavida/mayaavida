@@ -22,9 +22,8 @@ Check out my work! I am most excited about two recently completed full stack web
 - :seedling: PlantEZ, a fun and useful application to help folks keep their houseplants alive and thriving! See [Github](https://github.com/mayaavida/plantez) repo and [live deployed site](https://plantez-b2407ef07622.herokuapp.com/#/home)!
 - 🏛️ Docomomo MN Modern Registry, an application that improved the display and functionality of a map of various modern architecture sites found throughout Minnesota and surrounding states. See [Github](https://github.com/mayaavida/docomomo-map-project) repo and [live deployed site](https://docomomo-mn-modern-registry-28e0f754dd03.herokuapp.com/#/home)!
 
-- :zap: In my free time, I like to read, go to soccer games, and try out local breweries and distilleries.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayampeters/)
+:zap: In my free time, I like to read, go to soccer games, and try out local breweries and distilleries.
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayampeters/)
 
   ---
 
