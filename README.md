@@ -16,9 +16,11 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Web Developer from Minneapolis, Minnesota. I am also a proud plant lady, coffee enthusiast, and dog lover.
 
-- :telescope: I’m currently working as a Project Manager in healthcare reasearch at the University of Minnesota, and a student in the [Prime Academy](https://www.primeacademy.io/) Full Stack Software Engineering program. 
+- :telescope: I’m open to work! I am looking for software engineering or web developer roles at a company whose mission and values align with my own. I just graduated from the [Prime Academy](https://www.primeacademy.io/) Full Stack Software Engineering program, and am also a full time project manager in healthcare research at the University of Minnesota. 
 
-- :seedling: Creating PlantEZ, a fullstack web application to help folks keep their houseplants alive and thriving! See [Github](https://github.com/mayaavida/plantez) repo and [live deployed site](https://plantez-b2407ef07622.herokuapp.com/#/home)!  Also training for my first Twin Cities 10 mile race in October :running_woman:	
+Check out my work! I am most excited about two recently completed full stack web applications:
+- :seedling: PlantEZ, a fun and useful application to help folks keep their houseplants alive and thriving! See [Github](https://github.com/mayaavida/plantez) repo and [live deployed site](https://plantez-b2407ef07622.herokuapp.com/#/home)!
+- 🏛️ Docomomo MN Modern Registry, an application that improved the display and functionality of a map of various modern architecture sites found throughout Minnesota and surrounding states. See [Github](https://github.com/mayaavida/docomomo-map-project) repo and [live deployed site](https://docomomo-mn-modern-registry-28e0f754dd03.herokuapp.com/#/home)!
 
 - :zap: In my free time, I like to read, go to soccer games, and try out local breweries and distilleries.
 
