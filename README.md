@@ -16,7 +16,7 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Web Developer from Minneapolis, Minnesota. I am also a proud plant lady, coffee enthusiast, and dog lover.
 
-- :telescope: I graduated from the [Prime Academy](https://www.primeacademy.io/) Full Stack Software Engineering program and currently and an Associate Software Engineer at the [Minnesota Star Tribune](https://www.startribune.com/). I also have a background in public health, infectious disease, and healthcare research. 
+:telescope: I currently work as an Associate Software Engineer at the [Minnesota Star Tribune](https://www.startribune.com/). I graduated in 2023 from the [Prime Academy](https://www.primeacademy.io/) Full Stack Software Engineering program, and I also have a background in public health, infectious disease, and healthcare research. 
 
 Check out my work! I created and collaborated with other developers on two full stack applications at Prime:
 - :seedling: PlantEZ, a fun and useful application to help folks keep their houseplants alive and thriving! See [Github](https://github.com/mayaavida/plantez) repo.
