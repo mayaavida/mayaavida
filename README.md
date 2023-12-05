@@ -13,7 +13,7 @@
 
 ---
 
-###About Me :
+## 👩‍💻About Me :
 
 I am a Full Stack Web Developer from Minneapolis, Minnesota. I am also a proud plant lady, coffee enthusiast, and dog lover.
 
